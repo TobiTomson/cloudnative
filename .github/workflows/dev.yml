@@ -14,7 +14,7 @@ env:
   ## Sets environment variables
   ## These Variables are used to display the links in the Workflow Tasks, 
   ## unfortunately this cant be done with github secrets, which makes sense since that could turn into a security problem
-  GITHUB_PROJECT_URL: "https://github.com/TobiTomson/danny-feedback-repo/projects/1" 
+  GITHUB_PROJECT_URL: "https://github.com/TobiTomson/cloudnative/projects/1" 
   DOCKER_REPO_URL: "https://hub.docker.com/repository/docker/tobitomson/dana-feedback-repo"
   DT_URL: "https://fmm04352.live.dynatrace.com/"
   DOCKER_TAG: "tobitomson/dana-feedback-repo"
